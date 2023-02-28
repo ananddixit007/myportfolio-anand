@@ -2,7 +2,7 @@
   "name": "simplefolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "A clean, beautiful and responsive portfolio!",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -10,15 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobiwave/simplefolio"
+    "url": "git+https://github.com/ananddixit007/myportfolio-anand"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Anand Dixit",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
-  },
-  "homepage": "https://github.com/cobiwave/simplefolio#readme",
+  "homepage": "https://github.com/ananddixit007/myportfolio-anand",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",
